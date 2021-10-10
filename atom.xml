@@ -6,7 +6,7 @@
   <link href="https://github.com/lzh66666/lzh66666.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/lzh66666/lzh66666.github.io/"/>
-  <updated>2021-10-09T10:16:27.140Z</updated>
+  <updated>2021-10-10T10:21:19.800Z</updated>
   <id>https://github.com/lzh66666/lzh66666.github.io/</id>
   
   <author>
@@ -17,11 +17,249 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>计算机网络-总结篇</title>
+    <title>系统总线</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/693dcbde.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/693dcbde.html</id>
+    <published>2021-10-10T10:20:00.000Z</published>
+    <updated>2021-10-10T10:21:19.800Z</updated>
+    
+    
+    <summary type="html">计算机组成原理——系统总线</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="计算机组成原理" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机的发展史</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/fcc0f5e8.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/fcc0f5e8.html</id>
+    <published>2021-10-10T10:18:00.000Z</published>
+    <updated>2021-10-10T10:19:20.441Z</updated>
+    
+    
+    <summary type="html">计算机发展史</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="计算机组成原理" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机系统概论</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/f4a1cbcb.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/f4a1cbcb.html</id>
+    <published>2021-10-10T10:14:00.000Z</published>
+    <updated>2021-10-10T10:16:58.749Z</updated>
+    
+    
+    <summary type="html">计算机系统概论，简单的学习</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="计算机组成原理" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring笔记</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/97be3275.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/97be3275.html</id>
+    <published>2021-10-10T10:09:00.000Z</published>
+    <updated>2021-10-10T10:11:29.504Z</updated>
+    
+    
+    <summary type="html">spring的学习笔记总结</summary>
+    
+    
+    
+    <category term="spring" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/spring/"/>
+    
+    
+    <category term="spring" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringMVC笔记</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/e545fed0.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/e545fed0.html</id>
+    <published>2021-10-10T10:04:00.000Z</published>
+    <updated>2021-10-10T10:06:38.996Z</updated>
+    
+    
+    <summary type="html">springmvc的学习笔记总结</summary>
+    
+    
+    
+    <category term="springmvc" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/springmvc/"/>
+    
+    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/springmvc/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="springmvc" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/springmvc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MyBatis笔记</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/93fcac00.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/93fcac00.html</id>
+    <published>2021-10-10T09:59:00.000Z</published>
+    <updated>2021-10-10T10:01:43.626Z</updated>
+    
+    
+    <summary type="html">mybatis的笔记详细记录</summary>
+    
+    
+    
+    <category term="mybatis" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/mybatis/"/>
+    
+    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/mybatis/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="mybatis" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/mybatis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python简易计算器</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/2302d164.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/2302d164.html</id>
+    <published>2021-10-10T09:54:00.000Z</published>
+    <updated>2021-10-10T09:57:37.417Z</updated>
+    
+    
+    <summary type="html">视力py中简单的实现一个计算器的基本功能</summary>
+    
+    
+    
+    <category term="python" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/python/"/>
+    
+    <category term="小案例" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/python/%E5%B0%8F%E6%A1%88%E4%BE%8B/"/>
+    
+    
+    <category term="python" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>windows环境中用c连接mysql</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/b1ba6fe4.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/b1ba6fe4.html</id>
+    <published>2021-10-10T09:49:00.000Z</published>
+    <updated>2021-10-10T09:53:15.440Z</updated>
+    
+    
+    <summary type="html">使用c语言连接mysql数据库，存储数据</summary>
+    
+    
+    
+    <category term="c" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/c/"/>
+    
+    <category term="mysql" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/c/mysql/"/>
+    
+    
+    <category term="mysql" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue中data和data()的区别</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/73ae3ac7.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/73ae3ac7.html</id>
+    <published>2021-10-10T09:41:00.000Z</published>
+    <updated>2021-10-10T09:46:07.515Z</updated>
+    
+    
+    <summary type="html">vue中细小知识点的学习——data和data()的区别</summary>
+    
+    
+    
+    <category term="vue" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/vue/"/>
+    
+    
+    <category term="vue" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA官网进不去--解决方法</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/f620b90f.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/f620b90f.html</id>
+    <published>2021-10-10T09:34:00.000Z</published>
+    <updated>2021-10-10T09:45:01.697Z</updated>
+    
+    
+    <summary type="html">idea相关问题的解决，官网页面打不开</summary>
+    
+    
+    
+    <category term="解决问题" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
+    
+    
+    <category term="idea" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/idea/"/>
+    
+    <category term="解决问题" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux文件属性的查看</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/1fb5ccfa.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/1fb5ccfa.html</id>
+    <published>2021-10-10T09:21:00.000Z</published>
+    <updated>2021-10-10T09:32:35.009Z</updated>
+    
+    
+    <summary type="html">详细讲解linux属性 更好的理解linux的参数</summary>
+    
+    
+    
+    <category term="linux" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/linux/"/>
+    
+    
+    <category term="linux" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sheo 入门</title>
     <link href="https://github.com/lzh66666/lzh66666.github.io/post/3905e6f8.html"/>
     <id>https://github.com/lzh66666/lzh66666.github.io/post/3905e6f8.html</id>
     <published>2021-10-09T09:21:58.000Z</published>
-    <updated>2021-10-09T10:16:27.140Z</updated>
+    <updated>2021-10-10T09:16:47.701Z</updated>
+    
+    
+    <summary type="html">简单的sheo使用</summary>
+    
+    
+    
+    <category term="sheo" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/sheo/"/>
+    
+    
+    <category term="sheo" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/sheo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机网络-第一章</title>
+    <link href="https://github.com/lzh66666/lzh66666.github.io/post/3905e6f8.html"/>
+    <id>https://github.com/lzh66666/lzh66666.github.io/post/3905e6f8.html</id>
+    <published>2021-10-09T09:21:00.000Z</published>
+    <updated>2021-10-10T09:27:13.819Z</updated>
     
     
     <summary type="html">计算机网络-总结篇，可以用来期末复习，校招面试等。</summary>
@@ -34,28 +272,6 @@
     <category term="计算机网络" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
     
     <category term="面试" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>linux</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/9211474f.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/9211474f.html</id>
-    <published>2021-10-09T09:07:00.000Z</published>
-    <updated>2021-10-09T09:57:13.139Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;dddddddddddddddddddddddddddd&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
