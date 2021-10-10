@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>卢泽华的时光录</title>
-  <icon>https://github.com/lzh66666/lzh66666.github.io/icon.png</icon>
+  <icon>https://gitee.com/lzh_gitee/lzh_gitee/icon.png</icon>
   <subtitle>此间的少年</subtitle>
-  <link href="https://github.com/lzh66666/lzh66666.github.io/atom.xml" rel="self"/>
+  <link href="https://gitee.com/lzh_gitee/lzh_gitee/atom.xml" rel="self"/>
   
-  <link href="https://github.com/lzh66666/lzh66666.github.io/"/>
+  <link href="https://gitee.com/lzh_gitee/lzh_gitee/"/>
   <updated>2021-10-10T10:21:19.800Z</updated>
-  <id>https://github.com/lzh66666/lzh66666.github.io/</id>
+  <id>https://gitee.com/lzh_gitee/lzh_gitee/</id>
   
   <author>
     <name>lzh</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>系统总线</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/693dcbde.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/693dcbde.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BA%BF"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BA%BF</id>
     <published>2021-10-10T10:20:00.000Z</published>
     <updated>2021-10-10T10:21:19.800Z</updated>
     
@@ -28,17 +28,17 @@
     
     
     
-    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="计算机组成原理" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    <category term="计算机组成原理" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>计算机的发展史</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/fcc0f5e8.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/fcc0f5e8.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2</id>
     <published>2021-10-10T10:18:00.000Z</published>
     <updated>2021-10-10T10:19:20.441Z</updated>
     
@@ -47,17 +47,17 @@
     
     
     
-    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="计算机组成原理" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    <category term="计算机组成原理" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>计算机系统概论</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/f4a1cbcb.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/f4a1cbcb.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA</id>
     <published>2021-10-10T10:14:00.000Z</published>
     <updated>2021-10-10T10:16:58.749Z</updated>
     
@@ -66,17 +66,17 @@
     
     
     
-    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="计算机组成原理" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    <category term="计算机组成原理" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>Spring笔记</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/97be3275.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/97be3275.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/Spring%E7%AC%94%E8%AE%B0"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/Spring%E7%AC%94%E8%AE%B0</id>
     <published>2021-10-10T10:09:00.000Z</published>
     <updated>2021-10-10T10:11:29.504Z</updated>
     
@@ -85,17 +85,17 @@
     
     
     
-    <category term="spring" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/spring/"/>
+    <category term="spring" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/spring/"/>
     
     
-    <category term="spring" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/spring/"/>
+    <category term="spring" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/spring/"/>
     
   </entry>
   
   <entry>
     <title>SpringMVC笔记</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/e545fed0.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/e545fed0.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/SpringMVC%E7%AC%94%E8%AE%B0"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/SpringMVC%E7%AC%94%E8%AE%B0</id>
     <published>2021-10-10T10:04:00.000Z</published>
     <updated>2021-10-10T10:06:38.996Z</updated>
     
@@ -104,19 +104,19 @@
     
     
     
-    <category term="springmvc" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/springmvc/"/>
+    <category term="springmvc" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/springmvc/"/>
     
-    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/springmvc/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/springmvc/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="springmvc" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/springmvc/"/>
+    <category term="springmvc" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/springmvc/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis笔记</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/93fcac00.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/93fcac00.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/MyBatis%E7%AC%94%E8%AE%B0"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/MyBatis%E7%AC%94%E8%AE%B0</id>
     <published>2021-10-10T09:59:00.000Z</published>
     <updated>2021-10-10T10:01:43.626Z</updated>
     
@@ -125,19 +125,19 @@
     
     
     
-    <category term="mybatis" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/mybatis/"/>
+    <category term="mybatis" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/mybatis/"/>
     
-    <category term="笔记" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/mybatis/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/mybatis/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="mybatis" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/mybatis/"/>
+    <category term="mybatis" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/mybatis/"/>
     
   </entry>
   
   <entry>
     <title>python简易计算器</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/2302d164.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/2302d164.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/python%E7%AE%80%E6%98%93%E8%AE%A1%E7%AE%97%E5%99%A8"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/python%E7%AE%80%E6%98%93%E8%AE%A1%E7%AE%97%E5%99%A8</id>
     <published>2021-10-10T09:54:00.000Z</published>
     <updated>2021-10-10T09:57:37.417Z</updated>
     
@@ -146,19 +146,19 @@
     
     
     
-    <category term="python" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/python/"/>
+    <category term="python" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/python/"/>
     
-    <category term="小案例" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/python/%E5%B0%8F%E6%A1%88%E4%BE%8B/"/>
+    <category term="小案例" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/python/%E5%B0%8F%E6%A1%88%E4%BE%8B/"/>
     
     
-    <category term="python" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/python/"/>
+    <category term="python" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>windows环境中用c连接mysql</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/b1ba6fe4.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/b1ba6fe4.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/windows%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%94%A8c%E8%BF%9E%E6%8E%A5mysql"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/windows%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%94%A8c%E8%BF%9E%E6%8E%A5mysql</id>
     <published>2021-10-10T09:49:00.000Z</published>
     <updated>2021-10-10T09:53:15.440Z</updated>
     
@@ -167,19 +167,19 @@
     
     
     
-    <category term="c" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/c/"/>
+    <category term="c" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/c/"/>
     
-    <category term="mysql" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/c/mysql/"/>
+    <category term="mysql" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/c/mysql/"/>
     
     
-    <category term="mysql" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/mysql/"/>
+    <category term="mysql" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/mysql/"/>
     
   </entry>
   
   <entry>
     <title>vue中data和data()的区别</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/73ae3ac7.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/73ae3ac7.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/vue%E4%B8%ADdata%E5%92%8Cdata-%E7%9A%84%E5%8C%BA%E5%88%AB"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/vue%E4%B8%ADdata%E5%92%8Cdata-%E7%9A%84%E5%8C%BA%E5%88%AB</id>
     <published>2021-10-10T09:41:00.000Z</published>
     <updated>2021-10-10T09:46:07.515Z</updated>
     
@@ -188,17 +188,17 @@
     
     
     
-    <category term="vue" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/vue/"/>
+    <category term="vue" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/vue/"/>
     
     
-    <category term="vue" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/vue/"/>
+    <category term="vue" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/vue/"/>
     
   </entry>
   
   <entry>
     <title>IDEA官网进不去--解决方法</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/f620b90f.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/f620b90f.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/IDEA%E5%AE%98%E7%BD%91%E8%BF%9B%E4%B8%8D%E5%8E%BB-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/IDEA%E5%AE%98%E7%BD%91%E8%BF%9B%E4%B8%8D%E5%8E%BB-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95</id>
     <published>2021-10-10T09:34:00.000Z</published>
     <updated>2021-10-10T09:45:01.697Z</updated>
     
@@ -207,19 +207,19 @@
     
     
     
-    <category term="解决问题" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
+    <category term="解决问题" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
     
     
-    <category term="idea" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/idea/"/>
+    <category term="idea" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/idea/"/>
     
-    <category term="解决问题" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
+    <category term="解决问题" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>linux文件属性的查看</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/1fb5ccfa.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/1fb5ccfa.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/linux%E6%96%87%E4%BB%B6%E5%B1%9E%E6%80%A7%E7%9A%84%E6%9F%A5%E7%9C%8B"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/linux%E6%96%87%E4%BB%B6%E5%B1%9E%E6%80%A7%E7%9A%84%E6%9F%A5%E7%9C%8B</id>
     <published>2021-10-10T09:21:00.000Z</published>
     <updated>2021-10-10T09:32:35.009Z</updated>
     
@@ -228,17 +228,17 @@
     
     
     
-    <category term="linux" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/linux/"/>
+    <category term="linux" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/linux/"/>
     
     
-    <category term="linux" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/linux/"/>
+    <category term="linux" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>sheo 入门</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/3905e6f8.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/3905e6f8.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/09/hello-world"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/09/hello-world</id>
     <published>2021-10-09T09:21:58.000Z</published>
     <updated>2021-10-10T09:16:47.701Z</updated>
     
@@ -247,17 +247,17 @@
     
     
     
-    <category term="sheo" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/sheo/"/>
+    <category term="sheo" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/sheo/"/>
     
     
-    <category term="sheo" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/sheo/"/>
+    <category term="sheo" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/sheo/"/>
     
   </entry>
   
   <entry>
     <title>计算机网络-第一章</title>
-    <link href="https://github.com/lzh66666/lzh66666.github.io/post/3905e6f8.html"/>
-    <id>https://github.com/lzh66666/lzh66666.github.io/post/3905e6f8.html</id>
+    <link href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/09/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C"/>
+    <id>https://gitee.com/lzh_gitee/lzh_gitee/2021/10/09/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C</id>
     <published>2021-10-09T09:21:00.000Z</published>
     <updated>2021-10-10T09:27:13.819Z</updated>
     
@@ -266,12 +266,12 @@
     
     
     
-    <category term="计算机网络" scheme="https://github.com/lzh66666/lzh66666.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    <category term="计算机网络" scheme="https://gitee.com/lzh_gitee/lzh_gitee/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
     
     
-    <category term="计算机网络" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    <category term="计算机网络" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
     
-    <category term="面试" scheme="https://github.com/lzh66666/lzh66666.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="https://gitee.com/lzh_gitee/lzh_gitee/tags/%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   

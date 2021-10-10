@@ -1,0 +1,468 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>计算机的发展史 | 卢泽华的时光录</title><meta name="keywords" content="计算机组成原理的学习"><meta name="author" content="lzh"><meta name="copyright" content="lzh"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="计算机发展史">
+<meta property="og:type" content="article">
+<meta property="og:title" content="计算机的发展史">
+<meta property="og:url" content="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2">
+<meta property="og:site_name" content="卢泽华的时光录">
+<meta property="og:description" content="计算机发展史">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp">
+<meta property="article:published_time" content="2021-10-10T10:18:00.000Z">
+<meta property="article:modified_time" content="2021-10-10T10:19:20.441Z">
+<meta property="article:author" content="lzh">
+<meta property="article:tag" content="计算机组成原理">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp"><link rel="shortcut icon" href="/lzh_gitee/img/favicon.png"><link rel="canonical" href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/lzh_gitee/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
+  root: '/lzh_gitee/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":200},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    jQuery: 'https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js',
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css'
+    },
+    fancybox: {
+      js: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isanchor: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '计算机的发展史',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2021-10-10 18:19:20'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const fontSizeVal = saveToLocal.get('global-font-size')
+    if (fontSizeVal !== undefined) {
+      document.documentElement.style.setProperty('--global-font-size', fontSizeVal + 'px')
+    }
+    
+    const detectApple = () => {
+      if (GLOBAL_CONFIG_SITE.isHome && /iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    document.addEventListener('pjax:complete', detectApple)})(window)</script><link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lzh66666/Butterfly-card-history/baiduhistory/css/main.css"><link rel="stylesheet" href="/css/flipcountdown.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lzh66666/lql_static/butterfly_static/css/ali_icon.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lzh66666/lql_static/butterfly_static/css/mogai.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lzh66666/font-awesome-animation@1.1.1/css/font-awesome-animation.min.css"  media="defer" onload="this.media='all'"><meta name="generator" content="Hexo 5.4.0"><link rel="alternate" href="/lzh_gitee/atom.xml" title="卢泽华的时光录" type="application/atom+xml">
+</head><body><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E5%A4%B4.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/lzh_gitee/archives/"><div class="headline">文章</div><div class="length-num">13</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/lzh_gitee/tags/"><div class="headline">标签</div><div class="length-num">13</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/lzh_gitee/categories/"><div class="headline">分类</div><div class="length-num">15</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/lzh_gitee/"><i class="fa-fw iconfont icon-shouyex"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-zuixinwenzhang_huaban"></i><span> 找文章</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/lzh_gitee/categories/"><i class="fa-fw iconfont icon-fenlei1"></i><span> 分类</span></a></li><li><a class="site-page child" href="/lzh_gitee/tags/"><i class="fa-fw iconfont icon-biaoqian1"></i><span> 标签</span></a></li><li><a class="site-page child" href="/lzh_gitee/archives/"><i class="fa-fw iconfont icon-shijianzhou"></i><span> 归档</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-shenghuo"></i><span> 生活</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/lzh_gitee/fcircle/"><i class="fa-fw iconfont icon-pengyouquan"></i><span> 朋友圈</span></a></li><li><a class="site-page child" href="/lzh_gitee/comments/"><i class="fa-fw iconfont icon-liaotian-04"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/lzh_gitee/link/"><i class="fa-fw iconfont icon-lianjie"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/lzh_gitee/share/"><i class="fa-fw iconfont icon-fenxiang"></i><span> 分享</span></a></li><li><a class="site-page child" href="/lzh_gitee/daohang/"><i class="fa-fw iconfont icon-daohang"></i><span> 导航站</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/lzh_gitee/about/"><i class="fa-fw iconfont icon-gerenzhongxin"></i><span> 关于笔者</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/lzh_gitee/">卢泽华的时光录</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/lzh_gitee/"><i class="fa-fw iconfont icon-shouyex"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-zuixinwenzhang_huaban"></i><span> 找文章</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/lzh_gitee/categories/"><i class="fa-fw iconfont icon-fenlei1"></i><span> 分类</span></a></li><li><a class="site-page child" href="/lzh_gitee/tags/"><i class="fa-fw iconfont icon-biaoqian1"></i><span> 标签</span></a></li><li><a class="site-page child" href="/lzh_gitee/archives/"><i class="fa-fw iconfont icon-shijianzhou"></i><span> 归档</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-shenghuo"></i><span> 生活</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/lzh_gitee/fcircle/"><i class="fa-fw iconfont icon-pengyouquan"></i><span> 朋友圈</span></a></li><li><a class="site-page child" href="/lzh_gitee/comments/"><i class="fa-fw iconfont icon-liaotian-04"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/lzh_gitee/link/"><i class="fa-fw iconfont icon-lianjie"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/lzh_gitee/share/"><i class="fa-fw iconfont icon-fenxiang"></i><span> 分享</span></a></li><li><a class="site-page child" href="/lzh_gitee/daohang/"><i class="fa-fw iconfont icon-daohang"></i><span> 导航站</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/lzh_gitee/about/"><i class="fa-fw iconfont icon-gerenzhongxin"></i><span> 关于笔者</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">计算机的发展史</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-10-10T10:18:00.000Z" title="发表于 2021-10-10 18:18:00">2021-10-10</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2021-10-10T10:19:20.441Z" title="更新于 2021-10-10 18:19:20">2021-10-10</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/lzh_gitee/categories/%E7%AC%94%E8%AE%B0/">笔记</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">1.8k</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>5分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="计算机的发展史"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><table><tr><td><h1><font color="#184CAC">计算机的产生和发展</font></h1></td></tr></table>
+
+<table><tr><td bgcolor="#184CAC" align=left><h2><font color="white">一、计算机的产生和发展</font></h2></td></tr></table>
+
+<table><tr><td  align=left>
+<h3>1.第一代电子管计算机</h3>
+<ul>
+<li><font color=red>1946年  美国  ENIAC</font><br>　　ENIAC的出现不但实现了制造一台通用计算机的目标,而且标志计算工具进入了一个崭新的时代,是人类文明发展史中的一个里程碑。仅仪半个世纪,计算机已经使人类社会从工业化社会发展到了信息化社会。虽然ENTAC于1955年正式退役,井陈列于美国国立博物馆供人们参观,但它的丰功伟绩将永远记载在人类的文明史册中。
+</li>
+<li>自从ENIAC问世后,人类为提高电子计算机性能的欲望从未减退过,并在20世纪50年代初,除美国外,英、法、苏联、日本意大利等国都相继研制出本国的第-台电子计算机,我国也于1958年研制成自己的第一台电子计算机。可是在这十多年的时间里,计算机的性能并未出现奇迹般的提高,它的运算速度每秒仅在数千次至上万次左有,其体积虽然不像ENIAC 那样庞大,但
+也占了相当大的空间,耗电量也很大。真到20世纪50年代末,计算机技术迎来了第一次大飞跃的发展机遇,其性能出现了数十倍以至几百倍的提高,这就是用晶体管替代电子管的重大变革。
+</li>
+<ul>
+<h3>2.第二代晶体管计算机</h3>
+<h3>3.第三代集成电路计算机</h3>
+<ul>
+<li><font color=red>IBM</font>的System/360和<font color=red>DEC</font>的PDP -8。</li>
+</ul>
+<h3>4.硬件技术对计算机更新换代的影响</h3>
+<img width=100% src="https://img-blog.csdnimg.cn/20200303154429304.png" />
+<h3>5.中国计算机发展历史</h3>
+<ul>
+<li><font color=red>1958年，</font>中科院计算所研制成功我国第一台小型电子管通用计算机103机(八一型),标志着我国第一台电子计算机的诞生。</li>
+<li><font color=red>1965年，</font>中科院计算所研制成功第一台大型晶体管计算机109乙，之后推出109丙机，该机为两弹试验中发挥了重要作用</li>
+<li><font color=red>1974年，</font>清华大学等单位联合设计、研制成功采用集成电路的DJS-130小型计算机，运算速度达每秒100万次</li>
+<li><font color=red>1983年，</font>国防科技大学研制成功运算速度每秒上亿次的银河-I巨型机，这是我国高速计算机研制的一个重要里程碑</li>
+<li><font color=red>1985年，</font>电子工业部计算机管理局研制成功与IBM PC机兼容的长城0520CH微机</li>
+<li><font color=red>1992年，</font>国防科技大学研究出银河-II通用并行巨型机，峰值速度达每秒4亿次浮点运算(相当于每秒10亿次基本运算操作)，为共享主存储器的四处理机向量机，其向量中央处理机是采用中小规模集成电路自行设计的，总体上达到80年代中后期国际先进水平。它主要用于中期天气预报</li>
+<li><font color=red>1993年，</font>国家智能计算机研究开发中心（后成立北京市曙光计算机公司）研制成功曙光一号全对称共享存储多处理机，这是国内首次以基于超大规模集成电路的通用微处理器芯片和标准UNIX操作系统设计开发的并行计算机</li>
+<li><font color=red>1995年，</font>曙光公司又推出了国内第一台具有<font color=red>大规模并行处理机</font>(MPP)结构的并行机曙光1000(含36个处理机)，峰值速度每秒25亿次浮点运算，实际运算速度上了<font color=red>每秒10亿次浮点运算这一高性能台阶</font>。曙光1000与美国Intel公司1990年推出的大规模并行机体系结构与实现技术相近，与国外的差距缩小到5年左右</li>
+<li><font color=red>1997年，</font>国防科大研制成功银河-III百亿次并行巨型计算机系统，采用可扩展分布共享存储并行处理体系结构，由130多个处理结点组成，峰值性能为每秒130亿次浮点运算，系统综合技术达到90年代中期国际先进水平</li>
+<li><font color=red>1997至1999年，</font>曙光公司先后在市场上推出具有机群结构(Cluster)的曙光1000A，曙光2000-I，曙光2000-II超级服务器，峰值计算速度已突破<font color=red>每秒1000亿次</font>浮点运算，机器规模已超过160个处理机</li>
+<li><font color=red>1999年，</font>国家并行计算机工程技术研究中心研制的神威I计算机通过了国家级验收，并在国家气象中心投入运行。系统有384个运算处理单元，峰值运算速度达<font color=red>每秒3840亿次</font></li>
+<li><font color=red>2000年，</font>曙光公司推出每秒3000亿次浮点运算的<font color=red>曙光3000</font>超级服务器</li>
+<li><font color=red>2001年，</font>中科院计算所研制成功我国第一款通用CPU——<font color=red>“龙芯”</font>芯片</li>
+<li><font color=red>2002年，</font>曙光公司推出完全自主知识产权的“龙腾”服务器，龙腾服务器采用了“龙芯-1”CPU，采用了曙光公司和中科院计算所联合研发的服务器专用主板，采用曙光LINUX操作系统，该服务器是国内第一台完全实现自有产权的产品，在国防、安全等部门将发挥重大作用</li>
+<li><font color=red>2003年，百万亿次</font>数据处理超级服务器曙光4000L通过国家验收，再一次刷新国产超级服务器的历史纪录，使得国产高性能产业再上新台阶</li>
+<li><font color=red>2010.6,中国运行速度最快的计算机——千万亿次超级计算机曙光“星云”落户深圳</font></li>
+</ul>
+</td></tr></table>
+
+<table><tr><td bgcolor="#184CAC" align=left><h2><font color="white">二、微型计算机的出现和发展</font></h2></td></tr></table>
+
+<table><tr><td  align=left>
+<h3>Moore 定律</h3>
+<font size=5>　　Intel 公司的缔造者之一 Gordon  Moore 提出</font><br><br>　　　<font size=5 color=red>微芯片上集成的晶体管数目每三年翻两番<br></font>
+<img width=100% src="https://img-blog.csdnimg.cn/20200303161140551.png" />
+</td></tr></table>
+
+
+<table><tr><td bgcolor="#184CAC" align=left><h2><font color="white">三、软件技术的兴起和发展</font></h2></td></tr></table>
+<table><tr><td  align=left>
+<h3>软件是程序以及开发、使用和维护程序所需要的所有文档</h3>
+<h3>1. 各种语言</h3>
+<ul>
+<li>机器语言——————面向机器</li>
+<li>汇编语言——————面向机器</li>
+<li>高级语言——————面向问题
+<ul><li>FORTRAN—————-科学计算和工程计算</li>
+<li>PASCAL——————结构化程序设计</li>
+<li>C++————————面向对象</li>
+<li>Java————————适应网络环境</li>
+</ul></li>
+</ul>
+<h3>2. 系统软件</h3>
+<ul>
+<li>语言处理程序——————汇编程序　　编译程序　　解释程序</li>
+<li>操作系统————————DOS　　UNIX　　Windows</li>
+<li>服务性程序———————装配　　调试　　诊断　　排错</li>
+<li>数据库管理系统—————数据库和数据库管理软件</li>
+<li>网络软件</li>
+</ul>
+<h3>3. 软件发展的特点</h3>
+<ol>
+<li>开发周期长</li>
+<li>制作成本高</li>
+<li>检测软件产品质量的特殊性</li>
+</ol>
+</td></tr></table>
+
+<table><tr><td><h1><font color="#184CAC">计算机的应用</font></h1></td></tr></table>
+
+<table><tr><td  align=left>
+<h3>一、科学计算和数据处理</h3>
+<h3>二、工业控制和实时控制</h3>
+<h3>三、网络技术</h3>
+<ol>
+<li>电子商务</li>
+<li>网络教育</li>
+<li>敏捷制造</li>
+</ol>
+<h3>四、虚拟现实</h3>
+<h3>五、办公自动化和管理信息系统</h3>
+<h3>六、CAD/CAM/CIMS</h3>
+<h3>七、多媒体技术</h3>
+<h3>八、人工智能</h3>
+</td></tr></table>
+<table><tr><td><h1><font color="#184CAC">计算机的展望</font></h1></td></tr></table></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">lzh</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2">https://gitee.com/lzh_gitee/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://gitee.com/lzh_gitee/lzh_gitee" target="_blank">卢泽华的时光录</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/lzh_gitee/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/">计算机组成原理</a></div><div class="post_share"><div class="social-share" data-image="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button button--animated"><i class="fas fa-qrcode"></i> 打赏</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E5%BE%AE%E4%BF%A1.png" target="_blank"><img class="post-qr-code-img" src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E5%BE%AE%E4%BF%A1.png" alt="微信"/></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" target="_blank"><img class="post-qr-code-img" src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" alt="支付宝"/></a><div class="post-qr-code-desc">支付宝</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/lzh_gitee/2021/10/10/%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BA%BF"><img class="prev-cover" src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp" onerror="onerror=null;src='/lzh_gitee/img/404.jpg'" alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">系统总线</div></div></a></div><div class="next-post pull-right"><a href="/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA"><img class="next-cover" src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp" onerror="onerror=null;src='/lzh_gitee/img/404.jpg'" alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">计算机系统概论</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/lzh_gitee/2021/10/10/%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BA%BF" title="系统总线"><img class="cover" src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-10-10</div><div class="title">系统总线</div></div></a></div><div><a href="/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA" title="计算机系统概论"><img class="cover" src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-10-10</div><div class="title">计算机系统概论</div></div></a></div></div></div><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="twikoo-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E5%A4%B4.png" onerror="this.onerror=null;this.src='/lzh_gitee/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">lzh</div><div class="author-info__description"><div style="text-align:center;"><b>流水幽吟绕耳边，<br>煦风馨语抚心弦。<br>挥臂欲揽冰钩月，<br>银星斟酌醉人涎。</b></div></div></div><div class="card-info-data"><div class="card-info-data-item is-center"><a href="/lzh_gitee/archives/"><div class="headline">文章</div><div class="length-num">13</div></a></div><div class="card-info-data-item is-center"><a href="/lzh_gitee/tags/"><div class="headline">标签</div><div class="length-num">13</div></a></div><div class="card-info-data-item is-center"><a href="/lzh_gitee/categories/"><div class="headline">分类</div><div class="length-num">15</div></a></div></div><a class="button--animated" id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/lzh66666"><i class="fab fa-github"></i><span>我的Github</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/lzh66666" target="_blank" title="github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:lzh@gmail.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a></div></div><!-- !=partial('includes/custom/SAO_card_player', {}, {cache: true})--><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn card-announcement-animation"></i><span>公告</span></div><div class="announcement_content"><p><span id="runtime"></span></p> <p>1、笔者的更多信息可以点击右上方的<a target="_blank" rel="noopener" href="http://lzhgmx.icu/about/">关于作者</a></p></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">1.</span> <span class="toc-text">计算机的产生和发展</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link"><span class="toc-number">1.1.</span> <span class="toc-text">一、计算机的产生和发展</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.1.1.</span> <span class="toc-text">1.第一代电子管计算机</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.1.2.</span> <span class="toc-text">2.第二代晶体管计算机</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.1.3.</span> <span class="toc-text">3.第三代集成电路计算机</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.1.4.</span> <span class="toc-text">4.硬件技术对计算机更新换代的影响</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.1.5.</span> <span class="toc-text">5.中国计算机发展历史</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link"><span class="toc-number">1.2.</span> <span class="toc-text">二、微型计算机的出现和发展</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.2.1.</span> <span class="toc-text">Moore 定律</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link"><span class="toc-number">1.3.</span> <span class="toc-text">三、软件技术的兴起和发展</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.3.1.</span> <span class="toc-text">软件是程序以及开发、使用和维护程序所需要的所有文档</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.3.2.</span> <span class="toc-text">1. 各种语言</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.3.3.</span> <span class="toc-text">2. 系统软件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">1.3.4.</span> <span class="toc-text">3. 软件发展的特点</span></a></li></ol></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">2.</span> <span class="toc-text">计算机的应用</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">2.0.1.</span> <span class="toc-text">一、科学计算和数据处理</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">2.0.2.</span> <span class="toc-text">二、工业控制和实时控制</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">2.0.3.</span> <span class="toc-text">三、网络技术</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">2.0.4.</span> <span class="toc-text">四、虚拟现实</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">2.0.5.</span> <span class="toc-text">五、办公自动化和管理信息系统</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">2.0.6.</span> <span class="toc-text">六、CAD&#x2F;CAM&#x2F;CIMS</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">2.0.7.</span> <span class="toc-text">七、多媒体技术</span></a></li><li class="toc-item toc-level-3"><a class="toc-link"><span class="toc-number">2.0.8.</span> <span class="toc-text">八、人工智能</span></a></li></ol></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">3.</span> <span class="toc-text">计算机的展望</span></a></li></ol></div></div><div class="card-widget card-history"><div class="card-content"><div class="item-headline"><i class="fas fa-clock fa-spin"></i><span>那年今日</span></div><div id="history-baidu" style="height: 100px;overflow: hidden;"><div class="history_swiper-container" id="history-container" style="width: 100%;height: 100%;"><div class="swiper-wrapper" id="history_container_wrapper" style="height:20px"></div></div></div></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/lzh_gitee/2021/10/10/%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BA%BF" title="系统总线"><img src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp" onerror="this.onerror=null;this.src='/lzh_gitee/img/404.jpg'" alt="系统总线"/></a><div class="content"><a class="title" href="/lzh_gitee/2021/10/10/%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BA%BF" title="系统总线">系统总线</a><time datetime="2021-10-10T10:20:00.000Z" title="发表于 2021-10-10 18:20:00">2021-10-10</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2" title="计算机的发展史"><img src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp" onerror="this.onerror=null;this.src='/lzh_gitee/img/404.jpg'" alt="计算机的发展史"/></a><div class="content"><a class="title" href="/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2" title="计算机的发展史">计算机的发展史</a><time datetime="2021-10-10T10:18:00.000Z" title="发表于 2021-10-10 18:18:00">2021-10-10</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA" title="计算机系统概论"><img src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.webp" onerror="this.onerror=null;this.src='/lzh_gitee/img/404.jpg'" alt="计算机系统概论"/></a><div class="content"><a class="title" href="/lzh_gitee/2021/10/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA" title="计算机系统概论">计算机系统概论</a><time datetime="2021-10-10T10:14:00.000Z" title="发表于 2021-10-10 18:14:00">2021-10-10</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/lzh_gitee/2021/10/10/Spring%E7%AC%94%E8%AE%B0" title="Spring笔记"><img src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/spring.webp" onerror="this.onerror=null;this.src='/lzh_gitee/img/404.jpg'" alt="Spring笔记"/></a><div class="content"><a class="title" href="/lzh_gitee/2021/10/10/Spring%E7%AC%94%E8%AE%B0" title="Spring笔记">Spring笔记</a><time datetime="2021-10-10T10:09:00.000Z" title="发表于 2021-10-10 18:09:00">2021-10-10</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/lzh_gitee/2021/10/10/SpringMVC%E7%AC%94%E8%AE%B0" title="SpringMVC笔记"><img src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/springmvc.webp" onerror="this.onerror=null;this.src='/lzh_gitee/img/404.jpg'" alt="SpringMVC笔记"/></a><div class="content"><a class="title" href="/lzh_gitee/2021/10/10/SpringMVC%E7%AC%94%E8%AE%B0" title="SpringMVC笔记">SpringMVC笔记</a><time datetime="2021-10-10T10:04:00.000Z" title="发表于 2021-10-10 18:04:00">2021-10-10</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/lzh_gitee/2021/10/10/MyBatis%E7%AC%94%E8%AE%B0" title="MyBatis笔记"><img src="https://gitee.com/lzh_gitee/springboot_image/raw/master/img/mybatis.webp" onerror="this.onerror=null;this.src='/lzh_gitee/img/404.jpg'" alt="MyBatis笔记"/></a><div class="content"><a class="title" href="/lzh_gitee/2021/10/10/MyBatis%E7%AC%94%E8%AE%B0" title="MyBatis笔记">MyBatis笔记</a><time datetime="2021-10-10T09:59:00.000Z" title="发表于 2021-10-10 17:59:00">2021-10-10</time></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2021 By lzh</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div><div class="footer_custom_text"><a target="_blank" rel="noopener" href="https://beian.miit.gov.cn"><img class="icp-icon" src="https://cdn.jsdelivr.net/npm/kang-static/Hexo/img/icp.png"><span>晋ICP备2021004040号</span></a><br><script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279775059'%3E%3C/span%3E%3Cscript src='https://v1.cnzz.com/z_stat.php%3Fid%3D1279775059%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="font-plus" type="button" title="放大字体"><i class="fas fa-plus"></i></button><button id="font-minus" type="button" title="缩小字体"><i class="fas fa-minus"></i></button><button id="translateLink" type="button" title="简繁转换">简</button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"></div><span class="search-close-button"><i class="fas fa-times"></i></span></div><div id="search-mask"></div></div><div><script src="/lzh_gitee/js/utils.js"></script><script src="/lzh_gitee/js/main.js"></script><script src="/lzh_gitee/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script src="/lzh_gitee/js/search/local-search.js"></script><div class="js-pjax"><script>(()=>{
+  const $countDom = document.getElementById('twikoo-count')
+  const init = () => {
+    twikoo.init(Object.assign({
+      el: '#twikoo-wrap',
+      envId: 'lzh-6gqifwr5978c0535',
+      region: ''
+    }, null))
+  }
+
+  const getCount = () => {
+    twikoo.getCommentsCount({
+      envId: 'lzh-6gqifwr5978c0535',
+      region: '',
+      urls: [window.location.pathname],
+      includeReply: false
+    }).then(function (res) {
+      $countDom.innerText = res[0].count
+    }).catch(function (err) {
+      console.error(err);
+    });
+  }
+
+  const loadTwikoo = (bool = false) => {
+    if (typeof twikoo === 'object') {
+      init()
+      bool && $countDom && setTimeout(getCount,0)
+    } else {
+      getScript('https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js').then(()=> {
+        init()
+        bool && $countDom && setTimeout(getCount,0)
+      })
+    }
+  }
+
+  if ('Twikoo' === 'Twikoo' || !false) {
+    if (false) btf.loadComment(document.getElementById('twikoo-wrap'), loadTwikoo)
+    else loadTwikoo(true)
+  } else {
+    window.loadOtherComment = () => {
+      loadTwikoo()
+    }
+  }
+})()</script></div><script>window.addEventListener('load', () => {
+  const changeContent = (content) => {
+    if (content === '') return content
+
+    content = content.replace(/<img.*?src="(.*?)"?[^\>]+>/ig, '[图片]') // replace image link
+    content = content.replace(/<a[^>]+?href=["']?([^"']+)["']?[^>]*>([^<]+)<\/a>/gi, '[链接]') // replace url
+    content = content.replace(/<pre><code>.*?<\/pre>/gi, '[代码]') // replace code
+    content = content.replace(/<[^>]+>/g,"") // remove html tag
+
+    if (content.length > 150) {
+      content = content.substring(0,150) + '...'
+    }
+    return content
+  }
+
+  const getComment = () => {
+    const runTwikoo = () => {
+      twikoo.getRecentComments({
+        envId: 'lzh-6gqifwr5978c0535',
+        region: '',
+        pageSize: 6,
+        includeReply: true
+      }).then(function (res) {
+        const twikooArray = res.map(e => {
+          return {
+            'content': changeContent(e.comment),
+            'avatar': e.avatar,
+            'nick': e.nick,
+            'url': e.url + '#' + e.id,
+            'date': new Date(e.created).toISOString()
+          }
+        })
+
+        saveToLocal.set('twikoo-newest-comments', JSON.stringify(twikooArray), 60/(60*24))
+        generateHtml(twikooArray)
+      }).catch(function (err) {
+        const $dom = document.querySelector('#card-newest-comments .aside-list')
+        $dom.innerHTML= "无法获取评论，请确认相关配置是否正确"
+      })
+    }
+
+    if (typeof twikoo === 'object') {
+      runTwikoo()
+    } else {
+      getScript('https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js').then(runTwikoo)
+    }
+  }
+
+  const generateHtml = array => {
+    let result = ''
+
+    if (array.length) {
+      for (let i = 0; i < array.length; i++) {
+        result += '<div class=\'aside-list-item\'>'
+
+        if (true) {
+          const name = 'src'
+          result += `<a href='${array[i].url}' class='thumbnail'><img ${name}='${array[i].avatar}' alt='${array[i].nick}'></a>`
+        }
+        
+        result += `<div class='content'>
+        <a class='comment' href='${array[i].url}'>${array[i].content}</a>
+        <div class='name'><span>${array[i].nick} / </span><time datetime="${array[i].date}">${btf.diffDate(array[i].date, true)}</time></div>
+        </div></div>`
+      }
+    } else {
+      result += '没有评论'
+    }
+
+    let $dom = document.querySelector('#card-newest-comments .aside-list')
+    $dom.innerHTML= result
+    window.lazyLoadInstance && window.lazyLoadInstance.update()
+    window.pjax && window.pjax.refresh($dom)
+  }
+
+  const newestCommentInit = () => {
+    if (document.querySelector('#card-newest-comments .aside-list')) {
+      const data = saveToLocal.get('twikoo-newest-comments')
+      if (data) {
+        generateHtml(JSON.parse(data))
+      } else {
+        getComment()
+      }
+    }
+  }
+
+  newestCommentInit()
+  document.addEventListener('pjax:complete', newestCommentInit)
+})</script><script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script><script src="https://cdn.jsdelivr.net/gh/lzh66666/Butterfly-card-history/baiduhistory/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script src="/js/flipcountdown.js"></script><script data-pjax src="/js/runtime.js"></script><script defer src="https://cdn.jsdelivr.net/npm/hexo-theme-volantis@latest/source/js/issues.min.js"></script><script defer src="https://cdn.jsdelivr.net/gh/lzh66666/live2d-widget@0.8.2/autoload.js"></script><script async data-pjax src="https://cdn.jsdelivr.net/gh/lzh66666/lql_static/butterfly_static/js/randombg.js"></script><script type="text/javascript" src="https://v1.cnzz.com/z_stat.php?id=1279775059&web_id=1279775059"></script><canvas class="fireworks" mobile="false"></canvas><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/fireworks.min.js"></script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = [
+  'title',
+  '#config-diff',
+  '#body-wrap',
+  '#rightside-config-hide',
+  '#rightside-config-show',
+  '.js-pjax'
+]
+
+if (false) {
+  pjaxSelectors.unshift('meta[property="og:image"]', 'meta[property="og:title"]', 'meta[property="og:url"]')
+}
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"]):not([href="/music/"]):not([href="/no-pjax/"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener scroll 
+  window.removeEventListener('scroll', window.tocScrollFn)
+  window.removeEventListener('scroll', scrollCollect)
+
+  typeof preloader === 'object' && preloader.initLoading()
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof chatBtnFn === 'function' && chatBtnFn()
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // Analytics
+  if (false) {
+    MtaH5.pgv()
+  }
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
